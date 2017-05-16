@@ -1,4 +1,4 @@
-bienvenidos a giub para desarrolladores
+bienvenidos a github para desarrolladores
 
 github para desarroladores
 
